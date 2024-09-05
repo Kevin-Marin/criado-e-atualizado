@@ -1,0 +1,19 @@
+{
+  "name": "criado-e-atualizado",
+  "version": "1.0.0",
+  "description": "Utilizando tanto o router do express quanto os models separados dos controllers",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
